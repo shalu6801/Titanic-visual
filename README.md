@@ -1,1 +1,1 @@
-# Titanic-visual
+# Titanic dataset visualization using Tableau
